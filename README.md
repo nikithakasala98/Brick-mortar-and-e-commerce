@@ -132,7 +132,7 @@ Fact table: Has the data of the transactions
         - This table is used to forecast the customer’s needs in advance, which can help in
             - Higher customer satisfaction
             - Reduced cost in warehouses for storage purposes
-        - The table is denormalized by the data engineering team. As it is a data warehouse which aims to be used for analytical work.
+        - The data engineering team denormalizes the table. It is a data warehouse that aims to be used for analytical work.
         - All the dates of the month should be replaced by the start date of the month
         - It has all the column names and in the end, it has the forecast quantity needed by the customer
     - fact_sales_monthly
@@ -141,7 +141,7 @@ Fact table: Has the data of the transactions
     - freight_cost
         - This table has details of travel costs and other costs for each market with fiscal year.
     - gross_price
-        - Having details of gross prices with product code.
+        - Having details of gross prices with product codes.
     - manufacturing_cost
         - Having details of manufacturing cost with product code with year.
     - Pre_invoice_dedutions
@@ -155,7 +155,7 @@ Fact table: Has the data of the transactions
 
 ## Data Model
 
-- Data modeling plays a vital role and is considered as the basement of the report. All the visuals will be built upon the data model.
+- Data modeling plays a vital role and is considered the report's basement. All the visuals will be built upon the data model.
 - Poor data modeling affects the overall performance of the report.
 - Following Good practices of data modeling is a must. Refer to this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed the Snowfall data modeling method.
@@ -181,7 +181,7 @@ In-Home view, all the views button will be available. Users will land on a speci
 
 ## Home Report
 
-![Home Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360-Home.mp4)
+![Home Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Home.gif)
 
 ## Info Page
 
@@ -189,22 +189,22 @@ In-Home view, all the views button will be available. Users will land on a speci
 
 ## Finance View
 
-![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Finance.mp4)
+![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Finance.gif)
 ## Sales View
 
-![Sales](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Sales.mp4)
+![Sales](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Market.mp4)
+![Marketing](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Market.gif)
 
 ## Supply chain View
 
-![Supply chain](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Supply-Chain.mp4)
+![Supply chain](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Supply-Chain.gif)
 
 ## Executive View
 
-![Executive](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Executive.mp4)
+![Executive](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Executive.gif)
 
 
 you can find the full report file here : [Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Report/Data_Analysis_360degrees_Project.pbix)
