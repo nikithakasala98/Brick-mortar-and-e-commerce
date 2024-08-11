@@ -92,8 +92,8 @@ Before starting the project, it’s crucial to have a clear understanding of the
 - What are the stakeholders' expectations upon project completion?
 - What potential challenges could arise during the project?
 - What resources and data are needed to build this dashboard?
-- Are there any specific inputs from stakeholders regarding the design     and layout of the dashboard?
-- 
+- Are there any specific inputs from stakeholders regarding the design and layout of the dashboard?
+  
 Following the project kick-off meetings, the data engineering team will provide the necessary data. The next step is to explore the dataset.
 
 ### Dataset **Understanding.**
