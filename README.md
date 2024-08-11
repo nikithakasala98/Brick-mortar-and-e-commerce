@@ -163,7 +163,7 @@ Fact Tables: Contain transactional data.
 - Follow best practices for data modeling. Refer to this blog for more information. [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - This project follows the Snowflake data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
