@@ -185,7 +185,7 @@ In-Home view, all the views button will be available. Users will land on a speci
 
 ## Info Page
 
-![Info](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/BI-360_Info.mp4)
+![Info](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/information.gif)
 
 ## Finance View
 
