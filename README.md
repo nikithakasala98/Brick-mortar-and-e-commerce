@@ -190,6 +190,7 @@ In-Home view, all the views button will be available. Users will land on a speci
 ## Finance View
 
 ![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Finance.gif)
+
 ## Sales View
 
 ![Sales](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Sales.gif)
