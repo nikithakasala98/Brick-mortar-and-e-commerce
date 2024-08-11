@@ -17,7 +17,7 @@ This project was developed following the Codebasics Power BI Course. You can fin
 - DAX studio (for optimizing the report)
 - Project charter file
 
-## PowerBI techniques Learnt
+## Power BI Techniques Acquired
 
 -	Creating Calculated Columns
 -	Crafting Measures using DAX Language
@@ -37,13 +37,12 @@ This project was developed following the Codebasics Power BI Course. You can fin
 -	Publishing Reports to Power BI Services
 -	Setting up Personal Gateway for Auto-refresh
 
-
 ## GitHub 
 
 - Uploading Large size files using GitHub LFS
 - Tracking the particular type of file extensions for LFS
 
-## Business related terms
+## Business Terminology Learned
 
 - Gross price
 - Pre-invoice deductions
@@ -63,6 +62,13 @@ This project was developed following the Codebasics Power BI Course. You can fin
 - Revenue Contribution
 - Excess Inventory
 - Unit Economics
+
+## Soft Skills acquired during Project development:
+- Analytical Thinking: Identifying patterns and insights from complex data.
+- Problem-solving: Overcoming challenges in data modeling and visualization.
+- Communication: Conveying data-driven stories effectively to stakeholders.
+- Attention to Detail: Ensuring accuracy and precision in reports.
+- Time Management: Balancing multiple tasks and meeting deadlines.
 
 ## Company’s background
 
